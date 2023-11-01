@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    color: blue;
+  }
+  
+  p {
+    font-size: 16px;
+    color: green;
+  }
+  
+  button {
+    all: unset;
+    background-color: #007bff;
+    color: white;
+    padding: 16px 24px;
+  }
+  
+  section {
+    margin-top: 20px;
+    padding: 16px 12px;
+    border: 1px solid lightgray;
+  }
